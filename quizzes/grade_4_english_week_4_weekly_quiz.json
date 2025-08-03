@@ -53,6 +53,30 @@
           ]
         }
       ]
+    },
+    {
+      "title": "Find the Verb",
+      "instruction": "Read each item carefully. Identify the verb in each sentence. Tap the correct answer.",
+      "section_type": "tap_the_word",
+      "image": "",
+      "questions": [
+        {
+          "sentence": "Jefferson and his friends play basketball.",
+          "correct_answer": "play"
+        },
+        {
+          "sentence": "The dog barks loudly at the mailman.",
+          "correct_answer": "barks"
+        },
+        {
+          "sentence": "Birds fly high in the blue sky.",
+          "correct_answer": "fly"
+        },
+        {
+          "sentence": "She reads a new book every week.",
+          "correct_answer": "reads"
+        }
+      ]
     }
   ]
 }
