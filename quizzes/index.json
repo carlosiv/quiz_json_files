@@ -14,5 +14,13 @@
     "type": "weekly",
     "title": "Science - Grade 1 (Week 1)",
     "description": "A weekly quiz for first grade science."
+  },
+  {
+    "file": "grade_4_english_week_4_weekly_quiz.json",
+    "grade": "4",
+    "subject": "english",
+    "type": "weekly",
+    "title": "English - Grade 4 (Week 4)",
+    "description": "A weekly quiz for fourth grade english."
   }
 ]

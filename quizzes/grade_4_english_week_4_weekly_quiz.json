@@ -1,0 +1,58 @@
+{
+  "subject": "english",
+  "grade": "2",
+  "type": "weekly",
+  "title": "Plural Nouns Fun",
+  "description": "Choose the correct plural forms.",
+  "general_instructions": "Read each sentence carefully. Tap the correct word in the parentheses to complete the sentence.",
+  "sections": [
+    {
+      "title": "Forming Plurals",
+      "instruction": "Read the following sentences. Tap the correct form of the plural nouns in each sentence.",
+      "section_type": "inline_choice",
+      "image": "",
+      "questions": [
+        {
+          "sentence_parts": [
+            "1. Mother bought some (",
+            {
+              "options": ["strawberrys", "strawberries"],
+              "correct_answer": "strawberries"
+            },
+            ") at the market."
+          ]
+        },
+        {
+          "sentence_parts": [
+            "2. She baked two (",
+            {
+              "options": ["loafs", "loaves"],
+              "correct_answer": "loaves"
+            },
+            ") of blackberry bread."
+          ]
+        },
+        {
+          "sentence_parts": [
+            "3. The (",
+            {
+              "options": ["childs", "children"],
+              "correct_answer": "children"
+            },
+            ") played with their toys."
+          ]
+        },
+        {
+          "sentence_parts": [
+            "4. There are many (",
+            {
+              "options": ["sheeps", "sheep"],
+              "correct_answer": "sheep"
+            },
+            ") in the field."
+          ]
+        }
+      ]
+    }
+  ]
+}
