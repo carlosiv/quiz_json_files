@@ -12,6 +12,7 @@
       "description": "Complete the quiz by answering all questions.",
       "section_type": "multiple_choice",
       "image": "https://uiolgwonyxsrxexnwmze.supabase.co/storage/v1/object/public/images//weather.png",
+      "instruction": "Choose the correct answer.",
       "questions": [
         {
           "question": "What is 2 + 2?",
@@ -32,6 +33,7 @@
       "description": "Solve the following math problems.",
       "image": "",
       "type": "multiple_choice",
+      "instruction": "Choose the correct answer.",
       "questions": [
         {
           "question": "What is 5 - 2?",
@@ -52,6 +54,7 @@
       "description": "Answer this bonus question for extra points.",
       "image": "",
       "type": "multiple_choice",
+      "instruction": "Choose the correct answer.",
       "questions": [
         {
           "question": "What is 1 + 1?",
