@@ -11,7 +11,7 @@
       "title": "Math Quiz",
       "description": "Complete the quiz by answering all questions.",
       "section_type": "multiple_choice",
-      "image": "",
+      "image": "https://uiolgwonyxsrxexnwmze.supabase.co/storage/v1/object/public/images//weather.png",
       "questions": [
         {
           "question": "What is 2 + 2?",
