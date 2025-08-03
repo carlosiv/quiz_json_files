@@ -1,0 +1,79 @@
+{
+  "subject": "science",
+  "grade": "1",
+  "week": "one",
+  "type": "weekly",
+  "title": "Living and Non-Living Things",
+  "description": "A fun quiz to learn about what's alive!",
+  "image": "https://images.pexels.com/photos/167699/pexels-photo-167699.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "general_instructions": "Look at the pictures and answer the questions. Let's see what you know about the world around you!",
+  "sections": [
+    {
+      "title": "What's Alive?",
+      "section_type": "multiple_choice",
+      "image": "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "instruction": "A living thing can grow, move, and needs food and water. Choose the living thing in each question.",
+      "questions": [
+        {
+          "question": "Which of these is a living thing?",
+          "image": "",
+          "choices": [
+            {
+              "text": "A happy dog",
+              "image": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            },
+            {
+              "text": "A toy car",
+              "image": "https://images.pexels.com/photos/385997/pexels-photo-385997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            },
+            {
+              "text": "A bouncy ball",
+              "image": "https://images.pexels.com/photos/46216/rubber-ball-play-ball-bouncy-ball-46216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            }
+          ],
+          "correct_answer": "A happy dog"
+        },
+        {
+          "question": "Find the living thing that grows in a garden.",
+          "image": "",
+          "choices": [
+            {
+              "text": "A garden rock"
+            },
+            {
+              "text": "A beautiful flower"
+            },
+            {
+              "text": "A garden hose"
+            }
+          ],
+          "correct_answer": "A beautiful flower"
+        }
+      ]
+    },
+    {
+      "title": "What's NOT Alive?",
+      "section_type": "multiple_choice",
+      "image": "https://images.pexels.com/photos/1907785/pexels-photo-1907785.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "instruction": "A non-living thing does not grow or need food. Choose the non-living thing.",
+      "questions": [
+        {
+          "question": "Which of these is NOT a living thing?",
+          "image": "https://images.pexels.com/photos/103124/pexels-photo-103124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "choices": [
+            {
+              "image": "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            },
+            {
+              "image": "https://images.pexels.com/photos/248547/pexels-photo-248547.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            },
+            {
+              "image": "https://images.pexels.com/photos/3408354/pexels-photo-3408354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            }
+          ],
+          "correct_answer": "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        }
+      ]
+    }
+  ]
+}
