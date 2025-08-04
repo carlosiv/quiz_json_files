@@ -5,30 +5,14 @@
     "subject": "makabansa",
     "type": "weekly",
     "title": "Makabansa - Grade 1 (Week 6)",
-    "description": "Lingguhang gawain para unang baitang ikaanim na linggo."
+    "description": "Lingguhang gawain para sa Makabansa ng unang baitang ikaanim na linggo."
   },
   {
-    "file": "grade_1_math_week_1_weekly_quiz.json",
+    "file": "grade1_gmrc_q1_week6_ex2.json",
     "grade": "1",
-    "subject": "math",
+    "subject": "gmrc",
     "type": "weekly",
-    "title": "Math - Grade 1 (Week 1)",
-    "description": "A weekly quiz for first grade mathematics."
-  },
-  {
-    "file": "grade_1_science_week_1_weekly_quiz.json",
-    "grade": "1",
-    "subject": "science",
-    "type": "weekly",
-    "title": "Science - Grade 1 (Week 1)",
-    "description": "A weekly quiz for first grade science."
-  },
-  {
-    "file": "grade_4_english_week_4_weekly_quiz.json",
-    "grade": "4",
-    "subject": "english",
-    "type": "weekly",
-    "title": "English - Grade 4 (Week 4)",
-    "description": "A weekly quiz for fourth grade english."
+    "title": "GMRC - Grade 1 (Week 6)",
+    "description": "Lingguhang gawain para sa GMRC ng unang baitang ikaanim na linggo."
   }
 ]
