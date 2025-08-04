@@ -1,0 +1,52 @@
+{
+  "title": "Makabansa - 1st Quarter",
+  "instruction": "Lagyan ng (✔️) kung ang pangungusap ay tama at eckis (❌) kung mali",
+  "section_type": "true_false",
+  "questions": [
+    {
+      "question": "Ang bata ay wala pang karapatan.",
+      "image": "",
+      "choices": {
+        "true_option": { "text": "✔️" },
+        "false_option": { "text": "❌" }
+      },
+      "correct_answer": "false"
+    },
+    {
+      "question": "Maaring tawagin ang bata sa ano mang pangalan na gusto nating banggitin.",
+      "image": "",
+      "choices": {
+        "true_option": { "text": "✔️" },
+        "false_option": { "text": "❌" }
+      },
+      "correct_answer": "false"
+    },
+    {
+      "question": "Pinipili lamang ang binibigyan ng karapatan.",
+      "image": "",
+      "choices": {
+        "true_option": { "text": "✔️" },
+        "false_option": { "text": "❌" }
+      },
+      "correct_answer": "false"
+    },
+    {
+      "question": "Ang karapatan ay mga pangangailangang dapat tinatamasa ng isang bata",
+      "image": "",
+      "choices": {
+        "true_option": { "text": "✔️" },
+        "false_option": { "text": "❌" }
+      },
+      "correct_answer": "true"
+    },
+    {
+      "question": "Tinutukoy na tungkulin ang mga dapat mong gawin ayon sa iyong karapatan.",
+      "image": "",
+      "choices": {
+        "true_option": { "text": "✔️" },
+        "false_option": { "text": "❌" }
+      },
+      "correct_answer": "true"
+    }
+  ]
+}

@@ -1,5 +1,13 @@
 [
   {
+    "file": "grade1_makabansa_q1_week6_ex1.json",
+    "grade": "1",
+    "subject": "makabansa",
+    "type": "weekly",
+    "title": "Makabansa - Grade 1 (Week 6)",
+    "description": "Lingguhang gawain para unang baitang ikaanim na linggo."
+  },
+  {
     "file": "grade_1_math_week_1_weekly_quiz.json",
     "grade": "1",
     "subject": "math",
