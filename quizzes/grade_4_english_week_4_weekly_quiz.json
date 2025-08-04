@@ -103,6 +103,44 @@
           "correct_answer": "last night"
         }
       ]
+    },
+    {
+      "title": "Reading Comprehension",
+      "instruction": "Read the paragraph below. Answer the questions that follow.",
+      "section_type": "multiple_choice",
+      "reading_material": "The sun is a star at the center of our solar system. It is a huge, hot ball of glowing gases. All the planets in our solar system, including Earth, orbit around the sun. The sun gives us light and heat, which are essential for life. Without the sun, Earth would be a dark, frozen world, and nothing could live here.",
+      "questions": [
+        {
+          "question": "What is the sun?",
+          "image": "",
+          "choices": [
+            { "text": "A planet" },
+            { "text": "A star" },
+            { "text": "A moon" }
+          ],
+          "correct_answer": "A star"
+        },
+        {
+          "question": "What does the sun give us?",
+          "image": "",
+          "choices": [
+            { "text": "Water and air" },
+            { "text": "Light and heat" },
+            { "text": "Food and soil" }
+          ],
+          "correct_answer": "Light and heat"
+        },
+        {
+          "question": "What would happen without the sun?",
+          "image": "",
+          "choices": [
+            { "text": "It would always be daytime" },
+            { "text": "Earth would be a frozen world" },
+            { "text": "Plants would grow bigger" }
+          ],
+          "correct_answer": "Earth would be a frozen world"
+        }
+      ]
     }
   ]
 }
