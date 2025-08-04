@@ -4,15 +4,23 @@
     "grade": "1",
     "subject": "makabansa",
     "type": "weekly",
-    "title": "Makabansa - Grade 1 (Week 6)",
+    "title": "Makabansa - Grade 1 (Week 6) (Exercise 1)",
     "description": "Lingguhang gawain para sa Makabansa ng unang baitang ikaanim na linggo."
   },
   {
-    "file": "grade1_gmrc_q1_week6_ex2.json",
+    "file": "grade1_language_q1_week6_ex2.json",
     "grade": "1",
-    "subject": "gmrc",
+    "subject": "language",
     "type": "weekly",
-    "title": "GMRC - Grade 1 (Week 6)",
-    "description": "Lingguhang gawain para sa GMRC ng unang baitang ikaanim na linggo."
-  }
+    "title": "Language  - Grade 1 (Week 6) (Exercise 2)",
+    "description": "Language exercise for Grade 1"
+  },
+  {
+     "file": "grade1_gmrc_q1_week6_ex2.json",
+     "grade": "1",
+     "subject": "gmrc",
+     "type": "weekly",
+     "title": "GMRC - Grade 1 (Week 6) (Exercise 2)",
+     "description": "Lingguhang gawain para sa GMRC ng unang baitang ikaanim na linggo."
+   }
 ]
