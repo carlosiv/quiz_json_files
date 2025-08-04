@@ -1,0 +1,64 @@
+{
+  "subject": "gmrc",
+  "grade": "1",
+  "week": "one",
+  "type": "weekly",
+  "title": "Mga Mabuting Gawain",
+  "description": "Ang mga mabuting gawain.",
+  "image": "",
+  "general_instructions": "Sagutan ang sumusunod",
+  "sections": [
+    {
+      "title": "Mga Mabuting Gawain",
+      "instruction": "Ano ang iyong nararamdaman kapag ginagawa mo ang sinasaad sa pangungusap. Piliin ang (😊) kung masaya ka at (😢) kung hindi.",
+      "section_type": "true_false",
+      "questions": [
+        {
+          "question": "Naglalaro ako kasama ng aking kaibigan",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "😊" },
+            "false_option": { "text": "😢" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Nag-aaral ako sumulat at bumasa",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "😊" },
+            "false_option": { "text": "😢" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Namamasyal kami ng aking buong pamilya.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "😊" },
+            "false_option": { "text": "😢" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Nagbibigay galang ako sa nakatatanda.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "😊" },
+            "false_option": { "text": "😢" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Nagsisimba kami ng aking pamilya tuwing araw ng Linggo.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "😊" },
+            "false_option": { "text": "😢" }
+          },
+          "correct_answer": "true"
+        }
+      ]
+    }
+  ]
+}

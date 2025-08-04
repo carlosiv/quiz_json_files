@@ -1,0 +1,64 @@
+{
+  "subject": "language",
+  "grade": "1",
+  "week": "one",
+  "type": "weekly",
+  "title": "Mga Salitang Nagsasaad ng Paggalang",
+  "description": "Ang mga gamit sa paggalang.",
+  "image": "",
+  "general_instructions": "Sagutan ang sumusunod",
+  "sections": [
+    {
+      "title": "Mga Salitang Nagsasaad ng Paggalang",
+      "instruction": "Piliin ang (✔️) kung ang pangungusap ay nagpapahayag ng paggalang at ekis (❌) kung hindi.",
+      "section_type": "true_false",
+      "questions": [
+        {
+          "question": "Maari po ba akong pumunta kay Liza, Inay?",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "✔️" },
+            "false_option": { "text": "❌" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Pwede po bang lutuan mo ako Inay ng aking paboritong ulam?",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "✔️" },
+            "false_option": { "text": "❌" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Pakiabot kuya ng tubig sa mesa.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "✔️" },
+            "false_option": { "text": "❌" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Pakikuha mo ang bag ko.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "✔️" },
+            "false_option": { "text": "❌" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Pakiusap, tulungan mo ako ate sa aking proyekto",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "✔️" },
+            "false_option": { "text": "❌" }
+          },
+          "correct_answer": "true"
+        }
+      ]
+    }
+  ]
+}
