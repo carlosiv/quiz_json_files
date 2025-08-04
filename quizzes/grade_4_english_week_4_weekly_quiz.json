@@ -78,32 +78,7 @@
         }
       ]
     },
-    {
-      "title": "Time Expressions",
-      "instruction": "Study the following. Choose the correct time expression inside the box to complete the sentences. Tap your answer to fill the blank.",
-      "section_type": "word_bank",
-      "choices_bank": [
-        "after class",
-        "last night",
-        "every day",
-        "before",
-        "every Sunday"
-      ],
-      "questions": [
-        {
-          "sentence": "Joseph had never been to Ohio ________.",
-          "correct_answer": "before"
-        },
-        {
-          "sentence": "We go to church ________.",
-          "correct_answer": "every Sunday"
-        },
-        {
-          "sentence": "I watch my favorite cartoon ________.",
-          "correct_answer": "last night"
-        }
-      ]
-    },
+
     {
       "title": "Reading Comprehension",
       "instruction": "Read the paragraph below. Answer the questions that follow.",
