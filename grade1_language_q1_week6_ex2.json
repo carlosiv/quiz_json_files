@@ -1,0 +1,28 @@
+{
+  "title": "Salitang Kilos",
+  "instruction": "Piliin ang salitang kilos sa pangungusap",
+  "section_type": "tap_the_word",
+  "image": "",
+  "questions": [
+    {
+      "sentence": "Nagtanim ng bulaklak si Roda.",
+      "correct_answer": "Nagtanim"
+    },
+    {
+      "sentence": "Pumapasok sa paaralan si Ben araw-araw.",
+      "correct_answer": "Pumapasok"
+    },
+    {
+      "sentence": "Naglilinis ng bahay si Nanay.",
+      "correct_answer": "Naglilinis"
+    },
+    {
+      "sentence": "Ang tindera ay nagtitinda sa palengke.",
+      "correct_answer": "nagtitinda"
+    },
+    {
+      "sentence": "Magsisimba kami sa Linggo.",
+      "correct_answer": "Magsisimba"
+    }
+  ]
+}
