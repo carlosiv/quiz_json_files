@@ -1,52 +1,64 @@
 {
-  "title": "GMRC - 1st Quarter",
-  "instruction": "Piliin ang (😊) kung ikaw ay sanh-ayon sa pahayag o (😢) kung hindi.",
-  "section_type": "true_false",
-  "questions": [
+  "subject": "gmrc",
+  "grade": "1",
+  "week": "one",
+  "type": "weekly",
+  "title": "Karapatan ng bata",
+  "description": "Ang mga karapatan ng isang bata.",
+  "image": "",
+  "general_instructions": "Sagutan ang sumusunod",
+  "sections": [
     {
-      "question": "Karapatan ng bawat bata na mapahusay ang kanilang sarili at kakayahan.",
-      "image": "",
-      "choices": {
-        "true_option": { "text": "😊" },
-        "false_option": { "text": "😢" }
-      },
-      "correct_answer": "true"
-    },
-    {
-      "question": "Ang paglalaro at karapatan ng bata. Ito ay nakakatulong sa pag-unlad ng isip.",
-      "image": "",
-      "choices": {
-        "true_option": { "text": "😊" },
-        "false_option": { "text": "😢" }
-      },
-      "correct_answer": "true"
-    },
-    {
-      "question": "Ang pag-aaral at karapatan ng bata upang matuto at magkakaroon ng maayos na trabaho sa hinaharap",
-      "image": "",
-      "choices": {
-        "true_option": { "text": "😊" },
-        "false_option": { "text": "😢" }
-      },
-      "correct_answer": "true"
-    },
-    {
-      "question": "Hindi nakatutulong ang paglalaro kaya hindi dapat ito maging karapatan ng bata.",
-      "image": "",
-      "choices": {
-        "true_option": { "text": "😊" },
-        "false_option": { "text": "😢" }
-      },
-      "correct_answer": "false"
-    },
-    {
-      "question": "Ang edukasyon ay karapatang dapat ipagkaloob sa lahat, bata man o matanda.",
-      "image": "",
-      "choices": {
-        "true_option": { "text": "😊" },
-        "false_option": { "text": "😢" }
-      },
-      "correct_answer": "true"
+      "title": "GMRC - 1st Quarter",
+      "instruction": "Piliin ang (😊) kung ikaw ay sang-ayon sa pahayag o (😢) kung hindi.",
+      "section_type": "true_false",
+      "questions": [
+        {
+          "question": "Karapatan ng bawat bata na mapahusay ang kanilang sarili at kakayahan.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "😊" },
+            "false_option": { "text": "😢" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Ang paglalaro at karapatan ng bata. Ito ay nakakatulong sa pag-unlad ng isip.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "😊" },
+            "false_option": { "text": "😢" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Ang pag-aaral at karapatan ng bata upang matuto at magkakaroon ng maayos na trabaho sa hinaharap",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "😊" },
+            "false_option": { "text": "😢" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Hindi nakatutulong ang paglalaro kaya hindi dapat ito maging karapatan ng bata.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "😊" },
+            "false_option": { "text": "😢" }
+          },
+          "correct_answer": "false"
+        },
+        {
+          "question": "Ang edukasyon ay karapatang dapat ipagkaloob sa lahat, bata man o matanda.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "😊" },
+            "false_option": { "text": "😢" }
+          },
+          "correct_answer": "true"
+        }
+      ]
     }
   ]
 }
