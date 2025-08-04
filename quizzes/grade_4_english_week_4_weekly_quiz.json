@@ -112,20 +112,31 @@
       "questions": [
         {
           "question": "What is the sun?",
-          "choices": ["A planet", "A star", "A moon"],
+          "image": "",
+          "choices": [
+            { "text": "A planet" },
+            { "text": "A star" },
+            { "text": "A moon" }
+          ],
           "correct_answer": "A star"
         },
         {
           "question": "What does the sun give us?",
-          "choices": ["Water and air", "Light and heat", "Food and soil"],
+          "image": "",
+          "choices": [
+            { "text": "Water and air" },
+            { "text": "Light and heat" },
+            { "text": "Food and soil" }
+          ],
           "correct_answer": "Light and heat"
         },
         {
           "question": "What would happen without the sun?",
+          "image": "",
           "choices": [
-            "It would always be daytime",
-            "Earth would be a frozen world",
-            "Plants would grow bigger"
+            { "text": "It would always be daytime" },
+            { "text": "Earth would be a frozen world" },
+            { "text": "Plants would grow bigger" }
           ],
           "correct_answer": "Earth would be a frozen world"
         }
