@@ -77,6 +77,59 @@
           "correct_answer": "reads"
         }
       ]
+    },
+    {
+      "title": "Time Expressions",
+      "instruction": "Study the following. Choose the correct time expression inside the box to complete the sentences. Tap your answer to fill the blank.",
+      "section_type": "word_bank",
+      "choices_bank": [
+        "after class",
+        "last night",
+        "every day",
+        "before",
+        "every Sunday"
+      ],
+      "questions": [
+        {
+          "sentence": "Joseph had never been to Ohio ________.",
+          "correct_answer": "before"
+        },
+        {
+          "sentence": "We go to church ________.",
+          "correct_answer": "every Sunday"
+        },
+        {
+          "sentence": "I watch my favorite cartoon ________.",
+          "correct_answer": "last night"
+        }
+      ]
+    },
+    {
+      "title": "Reading Comprehension",
+      "instruction": "Read the paragraph below. Answer the questions that follow.",
+      "section_type": "multiple_choice",
+      "reading_material": "The sun is a star at the center of our solar system. It is a huge, hot ball of glowing gases. All the planets in our solar system, including Earth, orbit around the sun. The sun gives us light and heat, which are essential for life. Without the sun, Earth would be a dark, frozen world, and nothing could live here.",
+      "questions": [
+        {
+          "question": "What is the sun?",
+          "choices": ["A planet", "A star", "A moon"],
+          "correct_answer": "A star"
+        },
+        {
+          "question": "What does the sun give us?",
+          "choices": ["Water and air", "Light and heat", "Food and soil"],
+          "correct_answer": "Light and heat"
+        },
+        {
+          "question": "What would happen without the sun?",
+          "choices": [
+            "It would always be daytime",
+            "Earth would be a frozen world",
+            "Plants would grow bigger"
+          ],
+          "correct_answer": "Earth would be a frozen world"
+        }
+      ]
     }
   ]
 }
