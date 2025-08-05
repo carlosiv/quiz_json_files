@@ -46,5 +46,13 @@
     "type": "weekly",
     "title": "Math - Grade 1 (Week 6) (Exercise 2)",
     "description": "Math exercise for Grade 1"
+  },
+  {
+    "file": "test.json",
+    "grade": "1",
+    "subject": "test",
+    "type": "weekly",
+    "title": "Test",
+    "description": "Test"
   }
 ]
