@@ -8,30 +8,27 @@
   "image": "",
   "general_instructions": "Answer the following.",
   "sections": [
-    {
-      "title": "Number Bonds",
-      "instruction": "Fill in the missing number in each number bond.",
-      "section_type": "number_bond",
-      "questions": [
-        {
-          "whole": null,
-          "part1": 9,
-          "part2": 2,
-          "score": 1
-        },
-        {
-          "whole": 5,
-          "part1": null,
-          "part2": 3,
-          "score": 1
-        },
-        {
-          "whole": 10,
-          "part1": 4,
-          "part2": null,
-          "score": 1
-        }
-      ]
-    }
+   {
+     "title": "Flexible Number Bonds",
+     "instruction": "Fill in the missing numbers in each number bond.",
+     "section_type": "number_bond",
+     "questions": [
+       {
+         "whole": 15,
+         "parts": [5, null, 7],
+         "score_per_blank": 1
+       },
+       {
+         "whole": null,
+         "parts": [8, 9],
+         "score_per_blank": 1
+       },
+       {
+         "whole": 20,
+         "parts": [null, null],
+         "score_per_blank": 1
+       }
+     ]
+   }
   ]
 }
