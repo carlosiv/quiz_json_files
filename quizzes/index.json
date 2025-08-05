@@ -78,5 +78,13 @@
     "type": "weekly",
     "title": "GMRC - Grade 4 (Week ) (Exercise 4)",
     "description": "GMRC exercise for Grade 4"
+  },
+  {
+    "file": "test.json",
+    "grade": "4",
+    "subject": "Test",
+    "type": "weekly",
+    "title": "Test",
+    "description": "Test"
   }
 ]
