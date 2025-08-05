@@ -2,7 +2,7 @@
   {
     "file": "grade1_makabansa_q1_week6_ex1.json",
     "grade": "1",
-    "subject": "makabansa",
+    "subject": "Makabansa",
     "type": "weekly",
     "title": "Makabansa - Grade 1 (Week 6) (Exercise 1)",
     "description": "Lingguhang gawain para sa Makabansa ng unang baitang ikaanim na linggo."
@@ -10,7 +10,7 @@
   {
     "file": "grade1_language_q1_week6_ex1.json",
     "grade": "1",
-    "subject": "language",
+    "subject": "Language",
     "type": "weekly",
     "title": "Language  - Grade 1 (Week 6) (Exercise 1)",
     "description": "Language exercise for Grade 1"
@@ -18,7 +18,7 @@
   {
     "file": "grade1_language_q1_week6_ex2.json",
     "grade": "1",
-    "subject": "language",
+    "subject": "Language",
     "type": "weekly",
     "title": "Language  - Grade 1 (Week 6) (Exercise 2)",
     "description": "Language exercise for Grade 1"
@@ -26,7 +26,7 @@
   {
     "file": "grade1_gmrc_q1_week6_ex2.json",
     "grade": "1",
-    "subject": "gmrc",
+    "subject": "GMRC",
     "type": "weekly",
     "title": "GMRC - Grade 1 (Week 6) (Exercise 2)",
     "description": "Lingguhang gawain para sa GMRC ng unang baitang ikaanim na linggo."
@@ -34,7 +34,7 @@
   {
     "file": "grade1_gmrc_q1_week6_ex4.json",
     "grade": "1",
-    "subject": "gmrc",
+    "subject": "GMRC",
     "type": "weekly",
     "title": "GMRC - Grade 1 (Week 6) (Exercise 4)",
     "description": "Lingguhang gawain para sa GMRC ng unang baitang ikaanim na linggo."
@@ -42,9 +42,17 @@
   {
     "file": "grade1_math_q1_week6_ex2.json",
     "grade": "1",
-    "subject": "math",
+    "subject": "Math",
     "type": "weekly",
     "title": "Math - Grade 1 (Week 6) (Exercise 2)",
+    "description": "Math exercise for Grade 1"
+  },
+  {
+    "file": "grade1_math_q1_week6_ex2.json",
+    "grade": "1",
+    "subject": "Math",
+    "type": "weekly",
+    "title": "Math - Grade 1 (Week 6) (Exercise 3)",
     "description": "Math exercise for Grade 1"
   },
   {
