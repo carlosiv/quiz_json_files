@@ -1,0 +1,42 @@
+{
+  "subject": "test",
+  "grade": "1",
+  "week": "one",
+  "type": "weekly",
+  "title": "Test",
+  "description": "Test",
+  "image": "",
+  "general_instructions": "Answer the following.",
+  "sections": [
+ {
+   "title": "States of Matter",
+   "instruction": "Drag each item into its correct category: Solid, Liquid, or Gas.",
+   "section_type": "categorization",
+   "questions": [
+     {
+       "categories": [
+         { "id": 1, "text": "Solid" },
+         { "id": 2, "text": "Liquid" },
+         { "id": 3, "text": "Gas" }
+       ],
+       "items": [
+         {
+           "text": "Ice Cube",
+           "image": "https://i.imgur.com/some_ice_image.png",
+           "categoryId": 1
+         },
+         { "text": "Water", "categoryId": 2 },
+         { "text": "Steam", "categoryId": 3 },
+         { "text": "Rock", "categoryId": 1 },
+         { "text": "Juice", "categoryId": 2 },
+         {
+           "text": "Air in a Balloon",
+           "image": "https://i.imgur.com/some_balloon_image.png",
+           "categoryId": 3
+         }
+       ]
+     }
+   ]
+ }
+  ]
+}

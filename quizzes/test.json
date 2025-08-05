@@ -8,35 +8,42 @@
   "image": "",
   "general_instructions": "Answer the following.",
   "sections": [
- {
-   "title": "States of Matter",
-   "instruction": "Drag each item into its correct category: Solid, Liquid, or Gas.",
-   "section_type": "categorization",
-   "questions": [
-     {
-       "categories": [
-         { "id": 1, "text": "Solid" },
-         { "id": 2, "text": "Liquid" },
-         { "id": 3, "text": "Gas" }
-       ],
-       "items": [
-         {
-           "text": "Ice Cube",
-           "image": "https://i.imgur.com/some_ice_image.png",
-           "categoryId": 1
-         },
-         { "text": "Water", "categoryId": 2 },
-         { "text": "Steam", "categoryId": 3 },
-         { "text": "Rock", "categoryId": 1 },
-         { "text": "Juice", "categoryId": 2 },
-         {
-           "text": "Air in a Balloon",
-           "image": "https://i.imgur.com/some_balloon_image.png",
-           "categoryId": 3
-         }
-       ]
-     }
-   ]
- }
+{
+  "title": "Sentence Parts",
+  "instruction": "Read the sentence. First, tap all the words that form the COMPLETE SUBJECT, then press 'Check Subject'. After that, tap all the words that form the COMPLETE PREDICATE and press 'Check Predicate'.",
+  "section_type": "subject_predicate",
+  "questions": [
+    {
+      "sentence_words": [
+        "The",
+        "quick",
+        "brown",
+        "fox",
+        "jumps",
+        "over",
+        "the",
+        "lazy",
+        "dog."
+      ],
+      "subject_words": ["The", "quick", "brown", "fox"],
+      "predicate_words": ["jumps", "over", "the", "lazy", "dog."]
+    },
+    {
+      "sentence_words": [
+        "Maria",
+        "and",
+        "her",
+        "brother",
+        "are",
+        "playing",
+        "in",
+        "the",
+        "park."
+      ],
+      "subject_words": ["Maria", "and", "her", "brother"],
+      "predicate_words": ["are", "playing", "in", "the", "park."]
+    }
+  ]
+}
   ]
 }
