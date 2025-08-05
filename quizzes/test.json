@@ -8,26 +8,35 @@
   "image": "",
   "general_instructions": "Answer the following.",
   "sections": [
-  {
-    "title": "Animal Matching",
-    "instruction": "Match the animal to its sound or characteristic. Drag the correct option from the right and drop it onto its matching pair on the left.",
-    "section_type": "matching_type",
-    "questions": [
-      {
-        "premises": [
-          { "id": 1, "text": "Dog" },
-          { "id": 2, "text": "Cat" },
-          { "id": 3, "image": "https://i.imgur.com/q7e3g2b.png" },
-          { "id": 4, "text": "Lion" }
-        ],
-        "options": [
-          { "id": 3, "text": "This animal eats bananas." },
-          { "id": 1, "text": "Woof!" },
-          { "id": 4, "image": "https://i.imgur.com/kSghKfY.png" },
-          { "id": 2, "text": "Meow!" }
-        ]
-      }
-    ]
-  }
+ {
+   "title": "States of Matter",
+   "instruction": "Drag each item into its correct category: Solid, Liquid, or Gas.",
+   "section_type": "categorization",
+   "questions": [
+     {
+       "categories": [
+         { "id": 1, "text": "Solid" },
+         { "id": 2, "text": "Liquid" },
+         { "id": 3, "text": "Gas" }
+       ],
+       "items": [
+         {
+           "text": "Ice Cube",
+           "image": "https://i.imgur.com/some_ice_image.png",
+           "categoryId": 1
+         },
+         { "text": "Water", "categoryId": 2 },
+         { "text": "Steam", "categoryId": 3 },
+         { "text": "Rock", "categoryId": 1 },
+         { "text": "Juice", "categoryId": 2 },
+         {
+           "text": "Air in a Balloon",
+           "image": "https://i.imgur.com/some_balloon_image.png",
+           "categoryId": 3
+         }
+       ]
+     }
+   ]
+ }
   ]
 }
