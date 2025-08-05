@@ -50,10 +50,25 @@
   {
     "file": "grade4_ap_q1_week_ex2-3.json",
     "grade": "4",
-    "subject": "ap",
+    "subject": "Araling Panlipunan",
     "type": "weekly",
     "title": "Araling Panlipunan - Grade 4 (Week ) (Exercise 2-3)",
     "description": "Araling Panlipunan exercise for Grade 4"
+  },
+  {
+    "file": "grade4_english_q1_week_ex4.json",
+    "grade": "4",
+    "subject": "English",
+    "type": "weekly",
+    "title": "English - Grade 4 (Week ) (Exercise 4)",
+    "description": "English exercise for Grade 4"
+  },
+  {
+    "file": "grade4_gmrc_q1_week_ex4.json",
+    "grade": "4",
+    "subject": "GMRC",
+    "type": "weekly",
+    "title": "GMRC - Grade 4 (Week ) (Exercise 4)",
+    "description": "GMRC exercise for Grade 4"
   }
-
 ]

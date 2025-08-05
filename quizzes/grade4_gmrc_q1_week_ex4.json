@@ -1,0 +1,151 @@
+{
+  "subject": "GMRC",
+  "grade": "4",
+  "week": "one",
+  "type": "weekly",
+  "title": "Pananampalataya",
+  "description": "Pananampalataya",
+  "image": "",
+  "general_instructions": "Sagutan ang sumusunod.",
+  "sections": [
+    {
+      "title": "Pananampalataya",
+      "instruction": "Basahin ang mga sumusunod na pangungusap. Tukuyin kung ano ang isinasaad ng mga pangungusap. Piliin ang tamang sagot sa kahon.",
+      "section_type": "word_bank",
+      "choices_bank": [
+        "Muslim",
+        "Kristiyanismo",
+        "Bibliya",
+        "Koran",
+        "Paniniwala",
+        "Pananampalataya"
+      ],
+      "questions": [
+        {
+          "sentence": "Pagbibigay halaga sa paniniwala sa pamamagitan ng pagsasabuhay ng mga mabubuting aral.",
+          "correct_answer": "Paniniwala"
+        },
+        {
+          "sentence": "Mga aral at turo na isinasaisip at pinaniniwalaan.",
+          "correct_answer": "Pananampalataya"
+        },
+        {
+          "sentence": "Banal na aklat ng mga Muslim.",
+          "correct_answer": "Koran"
+        },
+        {
+          "sentence": "Banal na aklat ng mga Kristiyano.",
+          "correct_answer": "Bibliya"
+        },
+        {
+          "sentence": "Ang tawag sa relihiyon sa sumasampalataya kay Hesus na anak ng Diyos.",
+          "correct_answer": "Kristiyanismo"
+        }
+      ]
+    },
+    {
+      "title": "Paniniwala o Pananampalataya",
+      "instruction": "Tukuyin kung ang pahayag ay nagsasaad tungkol sa paniniwala o pananapalataya ng isang tao. Piliin ang bilog (🔴) kung ang pahayag ay nagpapakita ng paniniwala ng tao at parisukat (🟧) naman kung ito ay tungkol sa pananampalataya",
+      "section_type": "true_false",
+      "questions": [
+        {
+          "question": "Ang sabi ng Bibliya ay makapangyarihan at mabuti ang Diyos",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "🔴" },
+            "false_option": { "text": "🟧" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Isa sa mga turo ng Islam ay pagbibigay tulong sa mahihirap.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "🔴" },
+            "false_option": { "text": "🟧" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Isinasabuhay ang aral ng Diyos na magpatawad sa kapwa",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "🔴" },
+            "false_option": { "text": "🟧" }
+          },
+          "correct_answer": "false"
+        },
+        {
+          "question": "Sinisikap na maging mabuti anumang problema ang dumating sa buhay.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "🔴" },
+            "false_option": { "text": "🟧" }
+          },
+          "correct_answer": "false"
+        },
+        {
+          "question": "Hindi nagtatanim ng galit sa puso at kahit kanino man.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "🔴" },
+            "false_option": { "text": "🟧" }
+          },
+          "correct_answer": "false"
+        }
+      ]
+    },
+    {
+      "title": "Tamang Gawi",
+      "instruction": "Basahin ang mga sumusunod na pangungusap. Tukuyin kung TAMA o MALI",
+      "section_type": "true_false",
+      "questions": [
+        {
+          "question": "Nakikipag-away sa mga taong hindi niya gusto.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "TAMA" },
+            "false_option": { "text": "MALI" }
+          },
+          "correct_answer": "false"
+        },
+        {
+          "question": "Gumagawa ng kabutihan na walang hinihinging kapalit.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "TAMA" },
+            "false_option": { "text": "MALI" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Minamahal ang sarili at ang kapwa.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "TAMA" },
+            "false_option": { "text": "MALI" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Nagbibigay ng tulong sa mga taong gusto lang niya.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "TAMA" },
+            "false_option": { "text": "MALI" }
+          },
+          "correct_answer": "false"
+        },
+        {
+          "question": "Nagpapatawad sa kapwa ngunit nagtatanim pa rin ng galit sa puso.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "TAMA" },
+            "false_option": { "text": "MALI" }
+          },
+          "correct_answer": "false"
+        }
+      ]
+    }
+  ]
+}

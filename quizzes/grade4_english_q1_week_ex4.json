@@ -1,0 +1,128 @@
+{
+  "subject": "English",
+  "grade": "4",
+  "week": "one",
+  "type": "weekly",
+  "title": "Nouns",
+  "description": "Nouns",
+  "image": "",
+  "general_instructions": "Answer the following.",
+  "sections": [
+    {
+      "title": "Forming Plurals",
+      "instruction": "Read the following sentences. Tap the correct form of the plural nouns in each sentence.",
+      "section_type": "inline_choice",
+      "image": "",
+      "questions": [
+        {
+          "sentence_parts": [
+            "1. Mother bought some (",
+            {
+              "options": ["strawberrys", "strawberries"],
+              "correct_answer": "strawberries"
+            },
+            ") at the market."
+          ]
+        },
+        {
+          "sentence_parts": [
+            "2. She baked two (",
+            {
+              "options": ["loafs", "loaves"],
+              "correct_answer": "loaves"
+            },
+            ") of blackberry bread."
+          ]
+        },
+        {
+          "sentence_parts": [
+            "3. Jefferson needs (",
+            {
+              "options": ["boxes", "boxxes"],
+              "correct_answer": "boxes"
+            },
+            ") for our unused clothes"
+          ]
+        },
+        {
+          "sentence_parts": [
+            "4. The (",
+            {
+              "options": ["carabaos", "carabaoes"],
+              "correct_answer": "carabaos"
+            },
+            ") are in the field."
+          ]
+        },
+        {
+          "sentence_parts": [
+            "4. Those (",
+            {
+              "options": ["cat", "cats"],
+              "correct_answer": "cats"
+            },
+            ") never seem to get tired of chasing one another."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verb",
+      "instruction": "Read each carefully. Identify the verb in each sentence and tap it.",
+      "section_type": "tap_the_word",
+      "image": "",
+      "questions": [
+        {
+          "sentence": "Jefferson and his friends play basketball.",
+          "correct_answer": "play"
+        },
+        {
+          "sentence": "The class works hard for their project.",
+          "correct_answer": "works"
+        },
+        {
+          "sentence": "The classroom officers help in maintaining the cleanliness of the surroundings.",
+          "correct_answer": "help"
+        },
+        {
+          "sentence": "Everyone likes going to the concert.",
+          "correct_answer": "likes"
+        },
+        {
+          "sentence": "Mrs. Reyes teaches Math.",
+          "correct_answer": "teaches"
+        }
+      ]
+    },
+    {
+      "title": "Time Expressions",
+      "instruction": "Study the following sentences. Choose the correct time expression inside the box to complete the sentences. Tap your answer to fill the blank.",
+      "section_type": "word_bank",
+      "choices_bank": [
+        "after class",
+        "last night",
+        "every day",
+        "before",
+        "every Sunday"
+      ],
+      "questions": [
+        {
+          "sentence": "Joseph had never been to Davao City ________.",
+          "correct_answer": "before"
+        },
+        {
+          "sentence": "Sheila goes to school ________.",
+          "correct_answer": "every day"
+        },
+        {
+          "sentence": "The Grade 4 students will play in the field  ________.",
+          "correct_answer": "after class"
+        },
+        {
+          "sentence": "Jonathan goes to church  ________.",
+          "correct_answer": "every Sunday"
+        }
+      ]
+    }
+  ]
+}
