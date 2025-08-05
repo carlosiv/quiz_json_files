@@ -9,21 +9,21 @@
   "general_instructions": "Answer the following.",
   "sections": [
 {
-  "title": "Word Scramble",
-  "instruction": "Unscramble the letters to form a word that matches the clue. Tap the letters in the correct order.",
-  "section_type": "jumbled_word",
+  "title": "Missing Letters",
+  "instruction": "Complete the word by filling in the missing letters. Use the clue to help you!",
+  "section_type": "missing_letters",
   "questions": [
     {
-      "correct_word": "FLUTTER",
-      "clue": "A popular framework for building mobile apps."
+      "correct_word": "ELEPHANT",
+      "clue": "A very large gray animal with a trunk."
     },
     {
-      "correct_word": "ANDROID",
-      "clue": "A mobile operating system developed by Google."
+      "correct_word": "BICYCLE",
+      "clue": "A vehicle with two wheels."
     },
     {
-      "correct_word": "WIDGET",
-      "clue": "Everything in Flutter is a ________."
+      "correct_word": "STRAWBERRY",
+      "clue": "A sweet, red fruit."
     }
   ]
 }
