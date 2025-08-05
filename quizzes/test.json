@@ -9,39 +9,21 @@
   "general_instructions": "Answer the following.",
   "sections": [
 {
-  "title": "Sentence Parts",
-  "instruction": "Read the sentence. First, tap all the words that form the COMPLETE SUBJECT, then press 'Check Subject'. After that, tap all the words that form the COMPLETE PREDICATE and press 'Check Predicate'.",
-  "section_type": "subject_predicate",
+  "title": "Word Scramble",
+  "instruction": "Unscramble the letters to form a word that matches the clue. Tap the letters in the correct order.",
+  "section_type": "jumbled_word",
   "questions": [
     {
-      "sentence_words": [
-        "The",
-        "quick",
-        "brown",
-        "fox",
-        "jumps",
-        "over",
-        "the",
-        "lazy",
-        "dog."
-      ],
-      "subject_words": ["The", "quick", "brown", "fox"],
-      "predicate_words": ["jumps", "over", "the", "lazy", "dog."]
+      "correct_word": "FLUTTER",
+      "clue": "A popular framework for building mobile apps."
     },
     {
-      "sentence_words": [
-        "Maria",
-        "and",
-        "her",
-        "brother",
-        "are",
-        "playing",
-        "in",
-        "the",
-        "park."
-      ],
-      "subject_words": ["Maria", "and", "her", "brother"],
-      "predicate_words": ["are", "playing", "in", "the", "park."]
+      "correct_word": "ANDROID",
+      "clue": "A mobile operating system developed by Google."
+    },
+    {
+      "correct_word": "WIDGET",
+      "clue": "Everything in Flutter is a ________."
     }
   ]
 }
