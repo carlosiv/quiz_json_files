@@ -48,11 +48,12 @@
     "description": "Math exercise for Grade 1"
   },
   {
-    "file": "test.json",
-    "grade": "1",
-    "subject": "test",
+    "file": "grade4_ap_q1_week_ex2-3.json",
+    "grade": "4",
+    "subject": "ap",
     "type": "weekly",
-    "title": "Test",
-    "description": "Test"
+    "title": "Araling Panlipunan - Grade 4 (Week ) (Exercise 2-3)",
+    "description": "Araling Panlipunan exercise for Grade 4"
   }
+
 ]

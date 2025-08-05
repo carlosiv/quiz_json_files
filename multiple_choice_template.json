@@ -1,0 +1,74 @@
+{
+  "subject": "math",
+  "grade": "1",
+  "week": "one",
+  "type": "weekly",
+  "title": "Addition",
+  "description": "The concept of Addition",
+  "image": "",
+  "general_instructions": "Answer the following.",
+  "sections": [
+    {
+      "title": "Addition",
+      "instruction": "Choose the correct answer.",
+      "section_type": "multiple_choice",
+      "questions": [
+        {
+          "question": "The number 7 is 1 and ____",
+          "image": "",
+          "choices": [
+            { "text": "8" },
+            { "text": "7" },
+            { "text": "6" },
+            { "text": "5" }
+          ],
+          "correct_answer": "6"
+        },
+        {
+          "question": "The number 6 may be decomposed into __ and __.",
+          "image": "",
+          "choices": [
+            { "text": "6 and 0" },
+            { "text": "3 and 1" },
+            { "text": "1 and 4" },
+            { "text": "2 and 5" }
+          ],
+          "correct_answer": "6 and 0"
+        },
+        {
+          "question": "How many pairs of numbers make 6",
+          "image": "",
+          "choices": [
+            { "text": "4" },
+            { "text": "7" },
+            { "text": "6" },
+            { "text": "5" }
+          ],
+          "correct_answer": "6"
+        },
+        {
+          "question": "The numbers __ and __ does not make 7",
+          "image": "",
+          "choices": [
+            { "text": "0 and 7" },
+            { "text": "2 and 4" },
+            { "text": "6 and 1" },
+            { "text": "4 and 3" }
+          ],
+          "correct_answer": "2 and 4"
+        },
+        {
+          "question": "6 and 1 makes ___ ?",
+          "image": "",
+          "choices": [
+            { "text": "8" },
+            { "text": "7" },
+            { "text": "6" },
+            { "text": "5" }
+          ],
+          "correct_answer": "7"
+        }
+      ]
+    }
+  ]
+}

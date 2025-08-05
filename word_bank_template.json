@@ -1,0 +1,79 @@
+{
+  "subject": "english",
+  "grade": "2",
+  "type": "weekly",
+  "title": "Plural Nouns Fun",
+  "description": "Choose the correct plural forms.",
+  "general_instructions": "Read each sentence carefully. Tap the correct word in the parentheses to complete the sentence.",
+  "sections": [
+    {
+      "title": "Time Expressions",
+      "instruction": "Study the following. Choose the correct time expression inside the box to complete the sentences. Tap your answer to fill the blank.",
+      "section_type": "word_bank",
+      "choices_bank": [
+        "after class",
+        "last night",
+        "every day",
+        "before",
+        "every Sunday"
+      ],
+      "questions": [
+        {
+          "sentence": "Joseph had never been to Ohio ________.",
+          "correct_answer": "before"
+        },
+        {
+          "sentence": "We go to church ________.",
+          "correct_answer": "every Sunday"
+        },
+        {
+          "sentence": "I watch my favorite cartoon ________.",
+          "correct_answer": "last night"
+        }
+      ]
+    },
+    {
+      "title": "Science Facts",
+      "instruction": "Read the statement and decide if it is true or false.",
+      "section_type": "true_false",
+      "questions": [
+        {
+          "question": "The sun is a planet.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "True" },
+            "false_option": { "text": "False" }
+          },
+          "correct_answer": "false"
+        },
+        {
+          "question": "An adult human has 206 bones.",
+          "image": "https://images.pexels.com/photos/3998135/pexels-photo-3998135.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "choices": {
+            "true_option": { "text": "T" },
+            "false_option": { "text": "F" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Spiders are insects.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "🙂" },
+            "false_option": { "text": "🙁" }
+          },
+          "correct_answer": "false"
+        },
+        {
+          "question": "Is this a happy dog?",
+          "image": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "choices": {
+            "true_option": { "image": "https://i.imgur.com/3y7fT5b.png" },
+            "false_option": { "image": "https://i.imgur.com/J3GZJ0a.png" }
+          },
+          "correct_answer": "true"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "subject": "test",
+  "grade": "1",
+  "week": "one",
+  "type": "weekly",
+  "title": "Test",
+  "description": "Test",
+  "image": "",
+  "general_instructions": "Answer the following.",
+  "sections": [
+{
+  "title": "Missing Letters",
+  "instruction": "Complete the word by filling in the missing letters. Use the clue to help you!",
+  "section_type": "missing_letters",
+  "questions": [
+    {
+      "correct_word": "ELEPHANT",
+      "clue": "A very large gray animal with a trunk."
+    },
+    {
+      "correct_word": "BICYCLE",
+      "clue": "A vehicle with two wheels."
+    },
+    {
+      "correct_word": "STRAWBERRY",
+      "clue": "A sweet, red fruit."
+    }
+  ]
+}
+  ]
+}

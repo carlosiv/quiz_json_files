@@ -1,0 +1,155 @@
+{
+  "subject": "ap",
+  "grade": "1",
+  "week": "one",
+  "type": "weekly",
+  "title": "Estado",
+  "description": "Estado",
+  "image": "",
+  "general_instructions": "Sagutan ang sumusunod",
+  "sections": [
+    {
+      "title": "Punan ang patlang",
+      "instruction": "Tutukuyin ng mga mag-aaral ang mga konsepto sa aralin. Gawing gabay ang mga letrang nasa loob ng kahon upang matukoy ang mga konsepto.",
+      "section_type": "missing_letters",
+      "questions": [
+        {
+          "correct_word": "TERITORYO",
+          "clue": "Isang mahalagang elemento ng estado; ang mga lugar na tinitirhan ng mga tao, gayundin ang mga sakp na lugar na nasa ilalim ng hurisdiksiyon ng estado"
+        },
+        {
+          "correct_word": "HANGGANAN",
+          "clue": "Ang lugar o punto kung saan natatapos o nagsisimula ang isang bagay at pinakamalayo o pinakamataas na punto na maaring marating o hindi dapat lampasan."
+        },
+        {
+          "correct_word": "KASUNDUAN",
+          "clue": "Isang pormal o di-pormal na pagkakasundo sa pagitan ng dalawa o higit pang mga partido na may mga tuntunin o kondisyon ukol sa isang bagay o isyu."
+        },
+        {
+          "correct_word": "SALIGANG-BATAS",
+          "clue": "Ang pinakamahalagang dokumento na nagbabalangkas sa paggawa ng batas, istraktura ng pamahalaan, at nagtatakda ng mga prinsipyo, polisiya, karapatan, at responsibilidad ng mga mamamayan."
+        }
+      ]
+    },
+    {
+      "title": "Kasaysayan o Saligang-batas",
+      "instruction": "Piliin ang (Kasunduan ayon sa Kasaysayan) kung ang tinutukoy ay ng pahayag ay teritoryo ng Pilipinas ayon sa kasunduan at (Kasunduan ayon sa Saligang-Batas) kapag ito ay tumutukoy sa teritoryo ng pilipinas ayon sa kasunduan ng Saligang-Batas.",
+      "section_type": "true_false",
+      "questions": [
+        {
+          "question": "Kasunduan sa Paris noong Disyembre 10, 1898",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "Kasunduan ayon sa Kasaysayan" },
+            "false_option": { "text": "Kasunduan ayon sa Saligang-Batas" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Ang kalawakang panghimpapawid ay bahagi ng teritoryong lupain ng Pilipinas",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "Kasunduan ayon sa Kasaysayan" },
+            "false_option": { "text": "Kasunduan ayon sa Saligang-Batas" }
+          },
+          "correct_answer": "false"
+        },
+        {
+          "question": "Ang ilalim ng dagat ay lupang nasa ilalim ng dagat na teritoryo ng Pilipinas.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "Kasunduan ayon sa Kasaysayan" },
+            "false_option": { "text": "Kasunduan ayon sa Saligang-Batas" }
+          },
+          "correct_answer": "false"
+        },
+        {
+          "question": "Ang Mangsee at Turtle Islands ay sakop ng kapuluan Pilipinas",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "Kasunduan ayon sa Kasaysayan" },
+            "false_option": { "text": "Kasunduan ayon sa Saligang-Batas" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Ipinagkaloob ng Espanya sa Estados Unidos ang Pilipinas sa halagang dalawampung milyong dolyar.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "Kasunduan ayon sa Kasaysayan" },
+            "false_option": { "text": "Kasunduan ayon sa Saligang-Batas" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Kasunduan sa Washington noong Nobyembre 7, 1900",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "Kasunduan ayon sa Kasaysayan" },
+            "false_option": { "text": "Kasunduan ayon sa Saligang-Batas" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Ang dagat ay teritoryal na sumasaklaw sa 3 milya palabras papunta sa dagat ay hangganan ng bansa.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "Kasunduan ayon sa Kasaysayan" },
+            "false_option": { "text": "Kasunduan ayon sa Saligang-Batas" }
+          },
+          "correct_answer": "false"
+        },
+        {
+          "question": "Ang kailaliman ng lupa na lupang nasa ilalim ng kalupaan ay teritoryo ng Pilipinas.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "Kasunduan ayon sa Kasaysayan" },
+            "false_option": { "text": "Kasunduan ayon sa Saligang-Batas" }
+          },
+          "correct_answer": "false"
+        },
+        {
+          "question": "Lahat ng pulo at karagatan nakapaloob sa Pilipinas ay nasa kapangyarihan ng Pilipinas.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "Kasunduan ayon sa Kasaysayan" },
+            "false_option": { "text": "Kasunduan ayon sa Saligang-Batas" }
+          },
+          "correct_answer": "false"
+        },
+        {
+          "question": "Kasunduan sa pagitan ng Estados Unidos at Britanya noong Enero 2, 1930.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "Kasunduan ayon sa Kasaysayan" },
+            "false_option": { "text": "Kasunduan ayon sa Saligang-Batas" }
+          },
+          "correct_answer": "true"
+        }
+      ]
+    },
+    {
+      "title": "Kumpletuhin ang salita o parirala",
+      "instruction": "Tukuyin ang salita sa pamamagitan ng pagdagdag ng mga letra.",
+      "section_type": "missing_letters",
+      "questions": [
+        {
+          "correct_word": "TERITORYO",
+          "clue": "Sukat ng lupain na nasasaklaw ng hurisdiksyon ng isang bansa."
+        },
+        {
+          "correct_word": "MANGSEE",
+          "clue": "Pulo na nadagdag sa teritoryo ng Pilipinas dahil sa kasunduan sa pagitan ng Estados Unidos at Gran Britanya noong Enero 2, 1930."
+        },
+        {
+          "correct_word": "EXCLUSIVE ECONOMIC ZONE",
+          "clue": "Ito ay nagsasaad na ang isang kapuluang estado ay may hurisdiksiyon hanggang 200 nautical miless mula sa batayang guhit kung saan sinusukat ang territorial sea batay sa Doktrinang Pangkapuluan."
+        },
+        {
+          "correct_word": "DOKTRINANG PANGKAPULUAN",
+          "clue": "Doktrinang pinagtibay noong 1982 kung saan ipinahahayag ang estado sa kani-kanilang mga karagatan kabilang na ang mga katubigang nakapaligid sa bansa, kalapagang insular, mga pook submarina na kinalalatagan ng archipelago."
+        }
+      ]
+    }
+  ]
+}

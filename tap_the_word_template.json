@@ -1,0 +1,40 @@
+{
+  "subject": "language",
+  "grade": "1",
+  "week": "one",
+  "type": "weekly",
+  "title": "Salitang Kilos",
+  "description": "Ang mga salitang nagsasaad ng kilos.",
+  "image": "",
+  "general_instructions": "Sagutan ang sumusunod",
+  "sections": [
+    {
+      "title": "Salitang Kilos",
+      "instruction": "Piliin ang salitang kilos sa pangungusap",
+      "section_type": "tap_the_word",
+      "image": "",
+      "questions": [
+        {
+          "sentence": "Nagtanim ng bulaklak si Roda.",
+          "correct_answer": "Nagtanim"
+        },
+        {
+          "sentence": "Pumapasok sa paaralan si Ben araw-araw.",
+          "correct_answer": "Pumapasok"
+        },
+        {
+          "sentence": "Naglilinis ng bahay si Nanay.",
+          "correct_answer": "Naglilinis"
+        },
+        {
+          "sentence": "Ang tindera ay nagtitinda sa palengke.",
+          "correct_answer": "nagtitinda"
+        },
+        {
+          "sentence": "Magsisimba kami sa Linggo.",
+          "correct_answer": "Magsisimba"
+        }
+      ]
+    }
+  ]
+}
