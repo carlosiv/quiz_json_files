@@ -1,0 +1,37 @@
+{
+  "subject": "makabansa",
+  "grade": "1",
+  "week": "one",
+  "type": "weekly",
+  "title": "Mga Karapatan ng Bata",
+  "description": "Ang mga karapatan ng isang bata.",
+  "image": "",
+  "general_instructions": "Sagutan ang sumusunod",
+  "sections": [
+    {
+      "title": "Parts of Speech",
+      "instruction": "Read each sentence and type the correct word in each blank. Press 'Check Answer' when you are done.",
+      "section_type": "fill_in_the_blanks",
+      "questions": [
+        {
+          "sentence_parts": [
+            "The quick brown ",
+            { "correct_answer": "fox" },
+            " jumps over the lazy ",
+            { "correct_answer": "dog" },
+            "."
+          ]
+        },
+        {
+          "sentence_parts": [
+            "A ",
+            { "correct_answer": "verb" },
+            " is an action word, and a ",
+            { "correct_answer": "noun" },
+            " is a person, place, or thing."
+          ]
+        }
+      ]
+    }
+  ]
+}
