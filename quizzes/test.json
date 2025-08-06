@@ -9,24 +9,24 @@
   "general_instructions": "Answer the following.",
   "sections": [
    {
-     "title": "Flexible Number Bonds",
-     "instruction": "Fill in the missing numbers in each number bond.",
-     "section_type": "number_bond",
+     "title": "What Am I?",
+     "instruction": "Look at the picture and type its name in the box below.",
+     "section_type": "identify_the_image",
      "questions": [
        {
-         "whole": 15,
-         "parts": [5, null, 7],
-         "score_per_blank": 1
+         "sentence": "What animal is this?",
+         "image": "https://i.imgur.com/example_frog.png",
+         "correct_answer": "FROG"
        },
        {
-         "whole": null,
-         "parts": [8, 9],
-         "score_per_blank": 1
+         "sentence": "What is this object?",
+         "image": "https://i.imgur.com/example_bicycle.png",
+         "correct_answer": "BICYCLE"
        },
        {
-         "whole": 20,
-         "parts": [null, null],
-         "score_per_blank": 1
+         "sentence": "",
+         "image": "https://i.imgur.com/example_apple.png",
+         "correct_answer": "APPLE"
        }
      ]
    }
