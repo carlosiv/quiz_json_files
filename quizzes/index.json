@@ -91,6 +91,15 @@
     "description": "Araling Panlipunan exercise for Grade 4"
   },
   {
+    "file": "grade4_english_q1_week_ex2.json",
+    "grade": "4",
+    "subject": "English",
+    "type": "weekly",
+    "week": 0,
+    "title": "English - Grade 4 (Week ) (Exercise 2)",
+    "description": "English exercise for Grade 4"
+  },
+  {
     "file": "grade4_english_q1_week_ex4.json",
     "grade": "4",
     "subject": "English",

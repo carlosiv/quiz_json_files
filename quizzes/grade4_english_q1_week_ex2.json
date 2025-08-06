@@ -1,0 +1,140 @@
+{
+  "subject": "English",
+  "grade": "4",
+  "week": "zero",
+  "type": "weekly",
+  "title": "Nouns",
+  "description": "Nouns",
+  "image": "",
+  "general_instructions": "Answer the following.",
+  "sections": [
+    {
+      "title": "Type of Text",
+      "instruction": "Choose (D) if the text presented is a description type and choose (E) if enumeration type of text.",
+      "section_type": "true_false",
+      "questions": [
+        {
+          "question": "Golden retrievers are playful, yet gentle with children, and they tend to get along well with other pets and stranger. These dogs are eager to please, which probably explains why they respond so well to obedience training and are popular service dogs.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "D" },
+            "false_option": { "text": "E" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Thomas is a Golden Retriever dog who knows lots of tricks. He can jump, sit, turn around, and play with balls. He can also pick up things and return them in their proper places.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "D" },
+            "false_option": { "text": "E" }
+          },
+          "correct_answer": "false"
+        },
+        {
+          "question": "Davao del Sur is a province in the Philippines located in the Davao Region in Mindanao. Its capital is Digos City.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "D" },
+            "false_option": { "text": "E" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "In the rainy season, we wear rain coats, rain ponchos, rain jackets, or rain suits. We use waterproof boots or sandals and flip flops. We also carry an umbrella, mosquito repellent, water proof backpack or racksack, towels or tissues.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "D" },
+            "false_option": { "text": "E" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Valued by humans for companionship and its ability to kill vermin, the cat's retractable claws are adapted to killing small prey like mice and rats. It has strong flexible body, quick reflexes, and sharp teeth, and its vision and sense of smell are well developed.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "D" },
+            "false_option": { "text": "E" }
+          },
+          "correct_answer": "true"
+        }
+      ]
+    },
+    {
+      "title": "Word Meaning",
+      "instruction": "Using the information inside the box, identify the meaning of the word in (parenthesis) used in the sentence. Tap your answer to fill the blank.",
+      "section_type": "word_bank",
+      "choices_bank": [
+        "improper",
+        "rude",
+        "lacking",
+        "vanished",
+        "without sleep"
+      ],
+      "questions": [
+        {
+          "sentence": "Karen is an (impolite) lady.",
+          "correct_answer": "rude"
+        },
+        {
+          "sentence": "It is (inappropriate) to play with your phone while eating.",
+          "correct_answer": "improper"
+        },
+        {
+          "sentence": "I had a (sleepless) night due to the storm.",
+          "correct_answer": "without sleep"
+        },
+        {
+          "sentence": "The assignment is (incomplete)",
+          "correct_answer": "lacking"
+        },
+        {
+          "sentence": "Richard (disappeared) suddenly after he had his meal.",
+          "correct_answer": "vanished"
+        }
+      ]
+    },
+    {
+      "title": "Adding Suffix",
+      "instruction": "Add the suffix -less or -ful to the word inside the parenthesis to make the sentence correct. Write the newly formed word in the blank.",
+      "section_type": "fill_in_the_blanks",
+      "questions": [
+        {
+          "sentence_parts": [
+            "Boy Scouts are having a (wonder) ",
+            { "correct_answer": "wonderful" },
+            " time."
+          ]
+        },
+        {
+          "sentence_parts": [
+            "Girl Scouts look (beauty) ",
+            { "correct_answer": "beautiful" },
+            " in their uniforms."
+          ]
+        },
+        {
+          "sentence_parts": [
+            "There are (count) ",
+            { "correct_answer": "countless" },
+            " activities ahead of them."
+          ]
+        },
+        {
+          "sentence_parts": [
+            "The scout master taught the to be (faith) ",
+            { "correct_answer": "faithful" },
+            " to God."
+          ]
+        },
+        {
+          "sentence_parts": [
+            "They assisted fire victims who were left (home) ",
+            { "correct_answer": "homeless" },
+            " in going to the evacuation area."
+          ]
+        }
+      ]
+    }
+  ]
+}
