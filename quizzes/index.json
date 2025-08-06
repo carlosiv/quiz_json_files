@@ -48,11 +48,19 @@
     "description": "Math exercise for Grade 1"
   },
   {
-    "file": "grade1_math_q1_week6_ex2.json",
+    "file": "grade1_math_q1_week6_ex3.json",
     "grade": "1",
     "subject": "Math",
     "type": "weekly",
     "title": "Math - Grade 1 (Week 6) (Exercise 3)",
+    "description": "Math exercise for Grade 1"
+  },
+  {
+    "file": "grade1_math_q1_week6_ex4.json",
+    "grade": "1",
+    "subject": "Math",
+    "type": "weekly",
+    "title": "Math - Grade 1 (Week 6) (Exercise 4)",
     "description": "Math exercise for Grade 1"
   },
   {
