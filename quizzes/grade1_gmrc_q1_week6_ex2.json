@@ -23,7 +23,7 @@
           "correct_answer": "true"
         },
         {
-          "question": "Ang paglalaro at karapatan ng bata. Ito ay nakakatulong sa pag-unlad ng isip.",
+          "question": "Ang paglalaro ay karapatan ng bata. Ito ay nakakatulong sa pag-unlad ng isip.",
           "image": "",
           "choices": {
             "true_option": { "text": "😊" },
@@ -32,7 +32,7 @@
           "correct_answer": "true"
         },
         {
-          "question": "Ang pag-aaral at karapatan ng bata upang matuto at magkakaroon ng maayos na trabaho sa hinaharap",
+          "question": "Ang pag-aaral ay karapatan ng bata upang matuto at magkakaroon ng maayos na trabaho sa hinaharap",
           "image": "",
           "choices": {
             "true_option": { "text": "😊" },
