@@ -1,0 +1,44 @@
+{
+  "subject": "Math",
+  "grade": "1",
+  "week": "one",
+  "type": "weekly",
+  "title": "Addition",
+  "description": "The concept of Addition",
+  "image": "",
+  "general_instructions": "Answer the following.",
+  "sections": [
+    {
+      "title": "Number Sum",
+      "instruction": "Fill in the missing numbers in each number circle.",
+      "section_type": "number_bond",
+      "questions": [
+        {
+          "whole": null,
+          "parts": [2, 8],
+          "score_per_blank": 1
+        },
+        {
+          "whole": 10,
+          "parts": [null, 4],
+          "score_per_blank": 1
+        },
+        {
+          "whole": 10,
+          "parts": [null, 5],
+          "score_per_blank": 1
+        },
+        {
+          "whole": 10,
+          "parts": [0, 3, null],
+          "score_per_blank": 1
+        },
+        {
+          "whole": 10,
+          "parts": [null, null, 6],
+          "score_per_blank": 1
+        }
+      ]
+    }
+  ]
+}

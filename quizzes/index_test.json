@@ -1,0 +1,10 @@
+[
+  {
+    "file": "test.json",
+    "grade": "10",
+    "subject": "Test",
+    "type": "weekly",
+    "title": "Test",
+    "description": "Test"
+  }
+]
