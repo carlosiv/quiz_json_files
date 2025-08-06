@@ -10,23 +10,27 @@
   "sections": [
    {
      "title": "What Am I?",
-     "instruction": "Look at the picture and type its name in the box below.",
-     "section_type": "identify_the_image",
+     "instruction": "Look at the image or read the clue, then tap the correct answer from the box below.",
+     "section_type": "select_from_bank",
+     "choices_bank": [
+       { "text": "Dog" },
+       { "text": "Frog" },
+       { "text": "Lion" },
+       { "text": "Bee" }
+     ],
      "questions": [
        {
-         "sentence": "What animal is this?",
-         "image": "https://i.imgur.com/example_frog.png",
-         "correct_answer": "FROG"
+         "premise_image": "https://i.imgur.com/your_frog_image.png",
+         "correct_answer": "Frog"
        },
        {
-         "sentence": "What is this object?",
-         "image": "https://i.imgur.com/example_bicycle.png",
-         "correct_answer": "BICYCLE"
+         "premise_text": "I am the king of the jungle.",
+         "correct_answer": "Lion"
        },
        {
-         "sentence": "",
-         "image": "https://i.imgur.com/example_apple.png",
-         "correct_answer": "APPLE"
+         "premise_image": "https://i.imgur.com/your_dog_image.png",
+         "premise_text": "This animal barks.",
+         "correct_answer": "Dog"
        }
      ]
    }
