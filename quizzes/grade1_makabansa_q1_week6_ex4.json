@@ -1,0 +1,64 @@
+{
+  "subject": "Makabansa",
+  "grade": "1",
+  "week": "one",
+  "type": "weekly",
+  "title": "Mga Karapatan sa Payapang Tahahan",
+  "description": "Ang mga karapatan ng isang bata sa isang payapang tahanan.",
+  "image": "",
+  "general_instructions": "Sagutan ang sumusunod",
+  "sections": [
+    {
+      "title": "Mga Karapatan sa Payapang Tahahan",
+      "instruction": "Piliin ang (💖) kung ang larawan ay nagpapakita ng karapatan ng batang manirahan sa payapa at tahimik na lugar at (💔) kung hindi",
+      "section_type": "true_false",
+      "questions": [
+        {
+          "question": "",
+          "image": "https://uiolgwonyxsrxexnwmze.supabase.co/storage/v1/object/public/images//bayanihan.jpeg",
+          "choices": {
+            "true_option": { "text": "💖" },
+            "false_option": { "text": "💔" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "",
+          "image": "https://uiolgwonyxsrxexnwmze.supabase.co/storage/v1/object/public/images//fighting.jpeg",
+          "choices": {
+            "true_option": { "text": "💖" },
+            "false_option": { "text": "💔" }
+          },
+          "correct_answer": "false"
+        },
+        {
+          "question": "",
+          "image": "https://uiolgwonyxsrxexnwmze.supabase.co/storage/v1/object/public/images//family_praying.jpeg",
+          "choices": {
+            "true_option": { "text": "💖" },
+            "false_option": { "text": "💔" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "",
+          "image": "https://uiolgwonyxsrxexnwmze.supabase.co/storage/v1/object/public/images//helping.jpeg",
+          "choices": {
+            "true_option": { "text": "💖" },
+            "false_option": { "text": "💔" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "",
+          "image": "https://uiolgwonyxsrxexnwmze.supabase.co/storage/v1/object/public/images//parent_fighting.jpeg",
+          "choices": {
+            "true_option": { "text": "💖" },
+            "false_option": { "text": "💔" }
+          },
+          "correct_answer": "false"
+        }
+      ]
+    }
+  ]
+}
