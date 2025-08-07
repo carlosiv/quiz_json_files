@@ -1,6 +1,15 @@
 [
   {
-    "file": "grade1_gmrc_q1_week6_ex2.json",
+    "file": "./grade_1/q1/gmrc/week2/ex1.json",
+    "grade": "1",
+    "subject": "GMRC",
+    "type": "weekly",
+    "week": 2,
+    "title": "GMRC - Grade 1 (Week 6) (Exercise 2)",
+    "description": "Lingguhang gawain para sa GMRC ng unang baitang ikaanim na linggo."
+  },
+  {
+    "file": "./grade_1/q1/gmrc/week6/ex2.json",
     "grade": "1",
     "subject": "GMRC",
     "type": "weekly",
@@ -9,7 +18,7 @@
     "description": "Lingguhang gawain para sa GMRC ng unang baitang ikaanim na linggo."
   },
   {
-    "file": "grade1_gmrc_q1_week6_ex4.json",
+    "file": "./grade_1/q1/gmrc/week2/ex4.json",
     "grade": "1",
     "subject": "GMRC",
     "type": "weekly",
@@ -18,7 +27,34 @@
     "description": "Lingguhang gawain para sa GMRC ng unang baitang ikaanim na linggo."
   },
   {
-    "file": "grade1_language_q1_week6_ex1.json",
+    "file": "./grade_1/q1/language/week2/ex3.json",
+    "grade": "1",
+    "subject": "Language",
+    "type": "weekly",
+    "week": 2,
+    "title": "Language  - Grade 1 (Week 2) (Exercise 3)",
+    "description": "Language exercise for Grade 1"
+  },
+  {
+    "file": "./grade_1/q1/language/week5/ex1.json",
+    "grade": "1",
+    "subject": "Language",
+    "type": "weekly",
+    "week": 5,
+    "title": "Language  - Grade 1 (Week 5) (Exercise 1)",
+    "description": "Language exercise for Grade 1"
+  },
+  {
+    "file": "./grade_1/q1/language/week5/ex4.json",
+    "grade": "1",
+    "subject": "Language",
+    "type": "weekly",
+    "week": 5,
+    "title": "Language  - Grade 1 (Week 5) (Exercise 4)",
+    "description": "Language exercise for Grade 1"
+  },
+  {
+    "file": "./grade_1/q1/language/week6/ex1.json",
     "grade": "1",
     "subject": "Language",
     "type": "weekly",
@@ -27,7 +63,7 @@
     "description": "Language exercise for Grade 1"
   },
   {
-    "file": "grade1_language_q1_week6_ex2.json",
+    "file": "./grade_1/q1/language/week6/ex2.json",
     "grade": "1",
     "subject": "Language",
     "type": "weekly",
@@ -37,7 +73,7 @@
   },
 
   {
-    "file": "grade1_makabansa_q1_week6_ex1.json",
+    "file": "./grade_1/q1/makabansa/week6/ex1.json",
     "grade": "1",
     "subject": "Makabansa",
     "type": "weekly",
@@ -46,7 +82,7 @@
     "description": "Lingguhang gawain para sa Makabansa ng unang baitang ikaanim na linggo."
   },
   {
-    "file": "grade1_makabansa_q1_week6_ex4.json",
+    "file": "./grade_1/q1/makabansa/week6/ex4.json",
     "grade": "1",
     "subject": "Makabansa",
     "type": "weekly",
@@ -55,7 +91,25 @@
     "description": "Lingguhang gawain para sa Makabansa ng unang baitang ikaanim na linggo."
   },
   {
-    "file": "grade1_math_q1_week6_ex2.json",
+    "file": "./grade_1/q1/math/week3/ex1.json",
+    "grade": "1",
+    "subject": "Math",
+    "type": "weekly",
+    "week": 3,
+    "title": "Math - Grade 1 (Week 3) (Exercise 1)",
+    "description": "Math exercise for Grade 1"
+  },
+  {
+    "file": "./grade_1/q1/math/week5/ex2.json",
+    "grade": "1",
+    "subject": "Math",
+    "type": "weekly",
+    "week": 5,
+    "title": "Math - Grade 1 (Week 5) (Exercise 2)",
+    "description": "Math exercise for Grade 1"
+  },
+  {
+    "file": "./grade_1/q1/math/week6/ex2.json",
     "grade": "1",
     "subject": "Math",
     "type": "weekly",
@@ -64,7 +118,7 @@
     "description": "Math exercise for Grade 1"
   },
   {
-    "file": "grade1_math_q1_week6_ex3.json",
+    "file": "./grade_1/q1/math/week6/ex3.json",
     "grade": "1",
     "subject": "Math",
     "type": "weekly",
@@ -73,7 +127,7 @@
     "description": "Math exercise for Grade 1"
   },
   {
-    "file": "grade1_math_q1_week6_ex4.json",
+    "file": "./grade_1/q1/math/week6/ex4.json",
     "grade": "1",
     "subject": "Math",
     "type": "weekly",

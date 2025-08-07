@@ -1,0 +1,40 @@
+{
+  "subject": "Language",
+  "grade": "1",
+  "week": "2",
+  "type": "weekly",
+  "title": "Panggalan",
+  "description": "Panggalan ng tao.",
+  "image": "",
+  "general_instructions": "Sagutan ang sumusunod",
+  "sections": [
+    {
+      "title": "Panggalan ng tap",
+      "instruction": "Piliin ang pangalan ng tao sa pangungusap",
+      "section_type": "tap_the_word",
+      "image": "",
+      "questions": [
+        {
+          "sentence": "Si nanay ang nagluluto ng pagkain.",
+          "correct_answer": "nanay"
+        },
+        {
+          "sentence": "Ang aking lola ay isang mapagmahal at maalagain.",
+          "correct_answer": "lola"
+        },
+        {
+          "sentence": "Si tatay ang haligi ng tahanan. Nagtatrabaho siya para sa aming pamilya.",
+          "correct_answer": "tatay"
+        },
+        {
+          "sentence": "Tumutulong si ate sa mga gawaing bahay.",
+          "correct_answer": "ate"
+        },
+        {
+          "sentence": "Binibisita ko si lolo sa kaniyang taniman sa bukid.",
+          "correct_answer": "lolo"
+        }
+      ]
+    }
+  ]
+}

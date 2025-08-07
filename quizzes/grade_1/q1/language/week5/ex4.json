@@ -1,0 +1,69 @@
+{
+  "subject": "Language",
+  "grade": "1",
+  "week": "5",
+  "type": "weekly",
+  "title": "Mga Palatandaan",
+  "description": "Ang mga palatandaan,",
+  "image": "",
+  "general_instructions": "Sagutan ang sumusunod",
+  "sections": [
+    {
+      "title": "Mga Palatandaan",
+      "instruction": "Piliin ang tamang sagot.",
+      "section_type": "multiple_choice",
+      "questions": [
+        {
+          "question": "",
+          "image": "https://uiolgwonyxsrxexnwmze.supabase.co/storage/v1/object/public/images/no_parking.jpeg",
+          "choices": [
+            { "text": "Bawal Dumaan" },
+            { "text": "Bawal pumarada rito" },
+            { "text": "Bawal umupo rito" }
+          ],
+          "correct_answer": "Bawal pumarada rito"
+        },
+        {
+          "question": "",
+          "image": "https://uiolgwonyxsrxexnwmze.supabase.co/storage/v1/object/public/images/no_picking_of_flowers.jpeg",
+          "choices": [
+            { "text": "Tamang tawiran" },
+            { "text": "Bawal magtapon ng basura" },
+            { "text": "Bawal pumitas ng bulaklak" }
+          ],
+          "correct_answer": "Bawal pumitas ng bulaklak"
+        },
+        {
+          "question": "",
+          "image": "https://uiolgwonyxsrxexnwmze.supabase.co/storage/v1/object/public/images/walk_sign.png",
+          "choices": [
+            { "text": "Bawal tumawid" },
+            { "text": "Tamang tawiran" },
+            { "text": "Tamang sakayan" }
+          ],
+          "correct_answer": "Tamang tawiran"
+        },
+        {
+          "question": "",
+          "image": "https://uiolgwonyxsrxexnwmze.supabase.co/storage/v1/object/public/images/hospital_sign.png",
+          "choices": [
+            { "text": "Pook Pasyalan" },
+            { "text": "Pook Tambayan" },
+            { "text": "Pook Pagamutan" }
+          ],
+          "correct_answer": "Pook Pagamutan"
+        },
+        {
+          "question": "",
+          "image": "https://uiolgwonyxsrxexnwmze.supabase.co/storage/v1/object/public/images/keep_silence.jpeg",
+          "choices": [
+            { "text": "Huwag maingay" },
+            { "text": "Huwag malikot" },
+            { "text": "Huwag matulog" }
+          ],
+          "correct_answer": "Huwag maingay"
+        }
+      ]
+    }
+  ]
+}

@@ -1,20 +1,47 @@
 {
-  "subject": "Language",
+  "subject": "Makabansa",
   "grade": "1",
-  "week": "one",
+  "week": "6",
   "type": "weekly",
-  "title": "Mga Salitang Nagsasaad ng Paggalang",
-  "description": "Ang mga gamit sa paggalang.",
+  "title": "Mga Karapatan ng Bata",
+  "description": "Ang mga karapatan ng isang bata.",
   "image": "",
   "general_instructions": "Sagutan ang sumusunod",
   "sections": [
     {
-      "title": "Mga Salitang Nagsasaad ng Paggalang",
-      "instruction": "Piliin ang (✔️) kung ang pangungusap ay nagpapahayag ng paggalang at ekis (❌) kung hindi.",
+      "title": "Makabansa - 1st Quarter",
+      "instruction": "Piliin ang (✔️) kung ang pangungusap ay tama at ekis (❌) kung mali",
       "section_type": "true_false",
       "questions": [
         {
-          "question": "Maari po ba akong pumunta kay Liza, Inay?",
+          "question": "Ang bata ay wala pang karapatan.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "✔️" },
+            "false_option": { "text": "❌" }
+          },
+          "correct_answer": "false"
+        },
+        {
+          "question": "Maaring tawagin ang bata sa ano mang pangalan na gusto nating banggitin.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "✔️" },
+            "false_option": { "text": "❌" }
+          },
+          "correct_answer": "false"
+        },
+        {
+          "question": "Pinipili lamang ang binibigyan ng karapatan.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "✔️" },
+            "false_option": { "text": "❌" }
+          },
+          "correct_answer": "false"
+        },
+        {
+          "question": "Ang karapatan ay mga pangangailangang dapat tinatamasa ng isang bata",
           "image": "",
           "choices": {
             "true_option": { "text": "✔️" },
@@ -23,34 +50,7 @@
           "correct_answer": "true"
         },
         {
-          "question": "Pwede po bang lutuan mo ako Inay ng aking paboritong ulam?",
-          "image": "",
-          "choices": {
-            "true_option": { "text": "✔️" },
-            "false_option": { "text": "❌" }
-          },
-          "correct_answer": "true"
-        },
-        {
-          "question": "Pakiabot kuya ng tubig sa mesa.",
-          "image": "",
-          "choices": {
-            "true_option": { "text": "✔️" },
-            "false_option": { "text": "❌" }
-          },
-          "correct_answer": "true"
-        },
-        {
-          "question": "Pakikuha mo ang bag ko.",
-          "image": "",
-          "choices": {
-            "true_option": { "text": "✔️" },
-            "false_option": { "text": "❌" }
-          },
-          "correct_answer": "true"
-        },
-        {
-          "question": "Pakiusap, tulungan mo ako ate sa aking proyekto",
+          "question": "Tinutukoy na tungkulin ang mga dapat mong gawin ayon sa iyong karapatan.",
           "image": "",
           "choices": {
             "true_option": { "text": "✔️" },

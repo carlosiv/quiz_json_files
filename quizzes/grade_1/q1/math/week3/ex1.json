@@ -1,0 +1,74 @@
+{
+  "subject": "Math",
+  "grade": "1",
+  "week": "3",
+  "type": "weekly",
+  "title": "Number Sequence",
+  "description": "The concept of Number Sequence",
+  "image": "",
+  "general_instructions": "Answer the following.",
+  "sections": [
+    {
+      "title": "Number Sequence",
+      "instruction": "What is the missing number? Choose the correct answer.",
+      "section_type": "multiple_choice",
+      "questions": [
+        {
+          "question": "1, 2, _, 4, 5",
+          "image": "",
+          "choices": [
+            { "text": "2" },
+            { "text": "4" },
+            { "text": "3" },
+            { "text": "5" }
+          ],
+          "correct_answer": "3"
+        },
+        {
+          "question": "9, 8, 7, 6, _",
+          "image": "",
+          "choices": [
+            { "text": "5" },
+            { "text": "7" },
+            { "text": "6" },
+            { "text": "8" }
+          ],
+          "correct_answer": "5"
+        },
+        {
+          "question": "7, 6, 5, _, 3",
+          "image": "",
+          "choices": [
+            { "text": "6" },
+            { "text": "4" },
+            { "text": "5" },
+            { "text": "3" }
+          ],
+          "correct_answer": "4"
+        },
+        {
+          "question": "5, _, 3, _, 1",
+          "image": "",
+          "choices": [
+            { "text": "5, 4" },
+            { "text": "3, 2" },
+            { "text": "4, 3" },
+            { "text": "4, 2" }
+          ],
+          "correct_answer": "4, 2"
+        },
+        {
+          "question": "6, 7, 8, _, _",
+          "image": "",
+          "choices": [
+            { "text": "7, 8" },
+            { "text": "9, 10" },
+            { "text": "8, 9" },
+            { "text": "8, 10" }
+          ],
+          "correct_answer": "9, 10"
+        }
+      ]
+    }
+  ]
+}

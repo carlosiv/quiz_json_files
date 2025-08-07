@@ -1,0 +1,40 @@
+{
+  "subject": "Language",
+  "grade": "1",
+  "week": "5",
+  "type": "weekly",
+  "title": "Parte ng Bahay",
+  "description": "Ang mga parte ng bahay.",
+  "image": "",
+  "general_instructions": "Sagutan ang sumusunod",
+  "sections": [
+    {
+      "title": "Parte ng Bahay",
+      "instruction": "Hanapin sa kahon ang wastong lugar na tinutukoy ng larawan. .",
+      "section_type": "select_from_bank",
+      "choices_bank": ["silid-kainan", "sala", "kusina", "banyo", "kwarto"],
+      "questions": [
+        {
+          "premise_image": "https://uiolgwonyxsrxexnwmze.supabase.co/storage/v1/object/public/images/banyo.jpg",
+          "correct_answer": "banyo"
+        },
+        {
+          "premise_image": "https://uiolgwonyxsrxexnwmze.supabase.co/storage/v1/object/public/images/kusina.jpg",
+          "correct_answer": "kusina"
+        },
+        {
+          "premise_image": "https://uiolgwonyxsrxexnwmze.supabase.co/storage/v1/object/public/images/kwarto.jpg",
+          "correct_answer": "kwarto"
+        },
+        {
+          "premise_image": "https://uiolgwonyxsrxexnwmze.supabase.co/storage/v1/object/public/images/sala.jpg",
+          "correct_answer": "sala"
+        },
+        {
+          "premise_image": "https://uiolgwonyxsrxexnwmze.supabase.co/storage/v1/object/public/images/silid-kainan.jpg",
+          "correct_answer": "silid-kainan"
+        }
+      ]
+    }
+  ]
+}

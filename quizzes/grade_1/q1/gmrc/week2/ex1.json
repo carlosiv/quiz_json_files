@@ -1,0 +1,64 @@
+{
+  "subject": "GMRC",
+  "grade": "1",
+  "week": "2",
+  "type": "weekly",
+  "title": "Wastong Pakikipagkaibigan",
+  "description": "Ang mga wastong paraan ng pakikipagkaibigan.",
+  "image": "",
+  "general_instructions": "Sagutan ang sumusunod",
+  "sections": [
+    {
+      "title": "Wastong Pakikipagkaibigan",
+      "instruction": "Piliin ang (💖) kung ang pangungusap ay nagsasabi ng wastong pakikipagkaibigan at (💔) kung hindi.",
+      "section_type": "true_false",
+      "questions": [
+        {
+          "question": "Ang pagbibigay ng bahagi ng iyong pagkain sa iyong kaklase na walang baon ay paraan ng pakikipagkaibigan.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "💖" },
+            "false_option": { "text": "💔" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Ang pagsigaw at pagdabog sa kaklase ay paraan ng pakikipagkaibigan.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "💖" },
+            "false_option": { "text": "💔" }
+          },
+          "correct_answer": "false"
+        },
+        {
+          "question": "Ang paghintay sa kaklase upang makasabay sa pagpasok sa paaralan ay paraan ng pakikipagkaibigan.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "💖" },
+            "false_option": { "text": "💔" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Ang pagsauli ng hiniram na gamit ay paraan ng pakikipagkaibigan.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "💖" },
+            "false_option": { "text": "💔" }
+          },
+          "correct_answer": "true"
+        },
+        {
+          "question": "Ang pagkuha ng gamit ng iyong kaklase nang walang paalam ay paraan ng pakikipagkaibigan.",
+          "image": "",
+          "choices": {
+            "true_option": { "text": "💖" },
+            "false_option": { "text": "💔" }
+          },
+          "correct_answer": "false"
+        }
+      ]
+    }
+  ]
+}

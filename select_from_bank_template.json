@@ -1,0 +1,38 @@
+{
+  "subject": "test",
+  "grade": "1",
+  "week": "one",
+  "type": "weekly",
+  "title": "Test",
+  "description": "Test",
+  "image": "",
+  "general_instructions": "Answer the following.",
+  "sections": [
+   {
+     "title": "What Am I?",
+     "instruction": "Look at the image or read the clue, then tap the correct answer from the box below.",
+     "section_type": "select_from_bank",
+     "choices_bank": [
+       { "text": "Dog" },
+       { "text": "Frog" },
+       { "text": "Lion" },
+       { "text": "Bee" }
+     ],
+     "questions": [
+       {
+         "premise_image": "https://i.imgur.com/your_frog_image.png",
+         "correct_answer": "Frog"
+       },
+       {
+         "premise_text": "I am the king of the jungle.",
+         "correct_answer": "Lion"
+       },
+       {
+         "premise_image": "https://i.imgur.com/your_dog_image.png",
+         "premise_text": "This animal barks.",
+         "correct_answer": "Dog"
+       }
+     ]
+   }
+  ]
+}

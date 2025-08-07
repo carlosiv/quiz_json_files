@@ -1,0 +1,49 @@
+{
+  "subject": "Math",
+  "grade": "1",
+  "week": "5",
+  "type": "weekly",
+  "title": "Comparing Numbers",
+  "description": "The concept of Comparing Numbers",
+  "image": "",
+  "general_instructions": "Answer the following.",
+  "sections": [
+    {
+      "title": "Comparing Numbers",
+      "instruction": "Choose the correct answer.",
+      "section_type": "multiple_choice",
+      "questions": [
+        {
+          "question": "Which number is greater than 10?",
+          "image": "",
+          "choices": [{ "text": "9" }, { "text": "10" }, { "text": "11" }],
+          "correct_answer": "11"
+        },
+        {
+          "question": "Which number is same a 16?",
+          "image": "",
+          "choices": [{ "text": "61" }, { "text": "16" }, { "text": "6" }],
+          "correct_answer": "16"
+        },
+        {
+          "question": "Which number is less than 15?",
+          "image": "",
+          "choices": [{ "text": "18" }, { "text": "15" }, { "text": "12" }],
+          "correct_answer": "12"
+        },
+        {
+          "question": "Which number is greater than 9 but less than 13?",
+          "image": "",
+          "choices": [{ "text": "9" }, { "text": "12" }, { "text": "13" }],
+          "correct_answer": "12"
+        },
+        {
+          "question": "Which number is less than 17 but less than 14?",
+          "image": "",
+          "choices": [{ "text": "15" }, { "text": "17" }, { "text": "18" }],
+          "correct_answer": "15"
+        }
+      ]
+    }
+  ]
+}
